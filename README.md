@@ -26,6 +26,10 @@
 ![Uploading CSE no. 2_Page_4.jpg…]()
 
 
+**Written solution for** for **reduced block diagram** problem NO. 1
+![CSE no 1 Page 1](https://github.com/Bien21-00590/CSE_BlockDiagramAlgebra_MEXE_3202_Group1_2024/assets/158009409/0f04a344-1f00-4274-9846-e689ad0358e1)
+![CSE no 1 Page 2](https://github.com/Bien21-00590/CSE_BlockDiagramAlgebra_MEXE_3202_Group1_2024/assets/158009409/d7fa533d-cd84-49a8-98e5-596e92f5f2ac)
+
 
 
 
