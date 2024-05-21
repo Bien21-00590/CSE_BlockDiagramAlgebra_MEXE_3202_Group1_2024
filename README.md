@@ -27,7 +27,7 @@
 ![CSE no  2_Page_1](https://github.com/Bien21-00590/CSE_BlockDiagramAlgebra_MEXE_3202_Group1_2024/assets/157965990/929f564e-d6e8-4814-857f-52c65efcf048)
 ![CSE no  2_Page_2](https://github.com/Bien21-00590/CSE_BlockDiagramAlgebra_MEXE_3202_Group1_2024/assets/157965990/220c866d-34eb-4050-bd19-20f93edbe728)
 ![CSE no  2_Page_3](https://github.com/Bien21-00590/CSE_BlockDiagramAlgebra_MEXE_3202_Group1_2024/assets/157965990/f63c1890-985e-4b9b-8f2a-b9902722ef84)
-![Uploading CSE no. 2_Page_4.jpg…]()
+![CSE no  2_Page_4](https://github.com/Bien21-00590/CSE_BlockDiagramAlgebra_MEXE_3202_Group1_2024/assets/157965990/5408a05f-f4d5-4011-bb0b-4b0065978029)
 
 
 
